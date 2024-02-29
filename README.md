@@ -29,3 +29,7 @@ python collecting_coins_quantum.py
 ## Quantum Circuit
 
 When a coin is collected, a simple quantum circuit is created and displayed using Qiskit. The circuit consists of Hadamard gates applied to three qubits followed by two CNOT gates.
+
+#Output
+[The Game](image_1.png)
+[Quantum Gates](Image_2.png)
