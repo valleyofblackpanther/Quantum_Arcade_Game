@@ -12,7 +12,7 @@ COIN_COUNT = 50
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Sprites and Bullets with Quantum Gates Example"
+SCREEN_TITLE = "Collecting coins and creating quantum circuit"
 
 BULLET_SPEED = 5
 
